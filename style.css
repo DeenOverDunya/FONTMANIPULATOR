@@ -1,0 +1,45 @@
+body
+{
+
+font-family: 'DynaPuff', cursive;
+font-size: 20px;
+}
+
+#h3
+{
+color:#FEFBF6;
+font-size: 30px;
+}
+
+#howitworks
+{
+color:white;
+background-color: #7897AB;
+font-size: 25px;
+}
+
+p
+{
+text-align: left;
+margin-left: 10px;
+color: #FEFBF6;
+background-color: #D885A3;
+width: 1000px;
+font-size: 20px;
+}
+
+.copy_right_footer
+{
+position: fixed;
+bottom: 0;
+width: 100%;
+line-height: 3;
+text-align: center;
+}
+
+canvas
+{
+background-color: white;
+border-radius: 20px;
+padding: 20px;
+}
